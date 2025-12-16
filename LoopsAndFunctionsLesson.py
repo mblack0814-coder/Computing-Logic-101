@@ -18,3 +18,12 @@ for number in range(2,9):
 
     n=100
     #n*(n+1)--> 0(1)
+def sumItUp():
+    total=0
+    for i in range(1,n+1)
+       total += i
+    return total
+
+
+    for x in range(3,7):
+        print("sum",sumItUp(x))
